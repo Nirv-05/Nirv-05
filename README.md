@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nirv-05
 - 👀 I’m interested in Computers, Space, Nature, Animals.
 - 🌱 I’m currently learning Computer Engineering.
-- 💞️ I’m looking to collaborate on Artificial Intelligence based projects.
+- 💞️ I’m looking to collaborate on AI, GenAi based projects.
 - 📫 How to reach me via Github.
 - 😄 Pronouns: She
 - ⚡ Fun fact: Curiosity is the BEST food for cats!!!!!
